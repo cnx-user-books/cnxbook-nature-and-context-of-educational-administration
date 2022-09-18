@@ -1,0 +1,26 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course" authors="National Council of Professors  of Educational Administration">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11214</md:content-id>
+    <md:title>Nature and Context of Educational Administration</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>c0cf9b3c-0ed3-4d3e-b26d-f9ec37aa8903</md:uuid>
+<md:slug>nature-and-context-of-educational-administration</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m12743">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.rice.edu/content/m12743/latest/samplemodule.pdf">Read Entire Article</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m35181"/>
+    <col:module document="m35194"/>
+    <col:module document="m35198"/>
+    <col:module document="m34895"/>
+    <col:module document="m34886"/>
+    <col:module document="m34887"/>
+    <col:module document="m35638"/>
+  </col:content>
+</col:collection>
